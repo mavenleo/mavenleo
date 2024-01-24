@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Adebayo Lucas! 👋
 
-<!--
-**mavenleo/mavenleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Developer based in Lagos, Nigeria, with over 7 years of experience in building modern web applications. I have a passion for creating impactful solutions and boosting team productivity, regardless of my role within the team.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have extensive experience working with PHP and JavaScript, and I've had the opportunity to work with various teams to deliver high-quality software solutions.
+- 💬 Ask me about building scalable and maintainable web applications, team productivity, and creating positive impacts through technology.
+
+## Experience
+
+- **Senior Software Developer/Technical Lead** at [SeamlessHR] - I led the development of multiple enterprise HR products.
+
+## Interests
+
+- 🚀 Building impactful software solutions
+- 🌍 Exploring diverse tech environments
+- 📈 Boosting team productivity
+
+## Get in Touch
+
+- LinkedIn: [Adebayo A.](https://www.linkedin.com/in/mavenleo)
+- Email: [famous.nrv@gmail.com]
