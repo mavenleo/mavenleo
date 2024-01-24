@@ -19,5 +19,5 @@ I'm a Senior Software Developer based in Lagos, Nigeria, with over 7 years of ex
 
 ## Get in Touch
 
-- LinkedIn: [Adebayo A.](https://www.linkedin.com/in/mavenleo)
+- LinkedIn: [Adebayo L.](https://www.linkedin.com/in/mavenleo)
 - Email: [famous.nrv@gmail.com]
